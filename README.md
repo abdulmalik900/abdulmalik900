@@ -33,18 +33,33 @@
 ![NextUI](https://img.shields.io/badge/NextUI-007ACC?style=for-the-badge&logo=nextui&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-### 🚀 **Deployment & Hosting**  
+---
+
+## 🚀 Deployment & Hosting  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![VPS](https://img.shields.io/badge/VPS-555555?style=for-the-badge&logo=server&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)  
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
+## 🔍 SEO Tools & Strategies  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
+📊 **SEO Optimization & AI Tools**  
+✅ **seoClarity** - AI-powered SEO assistant  
+✅ **Surfer** - AI-driven content optimization  
+
+📈 **SEO Rank Tracking & Research**  
+✅ **Mangools** - Beginner-friendly SEO tool  
+✅ **Semrush** - Advanced rank tracking  
+✅ **Ahrefs** - Competitor research  
+
+📝 **SEO Content Optimization & Ideation**  
+✅ **Clearscope** - SEO content optimization  
+✅ **BuzzSumo** - Finding viral content ideas  
+✅ **AnswerThePublic** - Budget-friendly content research  
+✅ **SE Ranking** - Local SEO tracking  
 
 ---
 
