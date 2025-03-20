@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There! 👋 </h1>
+<h1 align="center"> Hey There! 👋 </h1>
 
 <h1 align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=I'm+Abdul+Malik;Software+Engineer+%7C+Next.js+Expert;SEO+Specialist+%7C+Team+Lead;CEO+of+ExtremSoft">
@@ -10,10 +10,10 @@
 
 ## 🚀 About Me  
 
-💡 Hey there! I'm Abdul Malik, a **Software Engineer**, **Next.js Expert**, and an **SEO Specialist**.  
-👨‍💻 I have a passion for building **high-performance web applications** and optimizing them for **search engines**.  
-🧑‍💼 As the **CEO of ExtremSoft**, I lead a team of talented engineers to create **cutting-edge** solutions.  
-🔥 I specialize in **Next.js, React, SEO strategies, and scalable web apps**.  
+💡 **Hey, I'm Abdul Malik!** A passionate **Software Engineer, Next.js Specialist, and SEO Expert**.  
+👨‍💻 I thrive on building **high-performance web applications** and optimizing them for **maximum visibility**.  
+🧑‍💼 As the **CEO of ExtremSoft**, I lead a team of talented developers to deliver **cutting-edge solutions**.  
+🔥 I specialize in **Next.js, React, SEO, modern UI libraries, and scalable database architectures**.  
 
 ---
 
@@ -25,15 +25,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
 
-### 🛠 **DevOps & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+### 🎨 **UI & Styling**  
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)  
+![NextUI](https://img.shields.io/badge/NextUI-007ACC?style=for-the-badge&logo=nextui&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### 🚀 **Deployment & Hosting**  
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
 
 ---
 
@@ -49,17 +51,20 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:amalik90090@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/abdul-malik-8304b8221/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://wa.me/923254254545">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://github.com/abdulmalik900">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
 
 ---
 
-⭐ **Feel free to check out my projects and connect!** 🚀
+⭐ **Feel free to check out my projects and connect!** 🚀🔥
